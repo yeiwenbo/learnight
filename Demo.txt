@@ -1,2 +1,3 @@
 Git is disatributes  version control system
 Git is free softwoar
+Git has a mutable index called stage.
