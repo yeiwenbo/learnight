@@ -1,5 +1,5 @@
 Git is disatributes  version control system
-Git is free softwoar
+Git is a free softwoar
 Git has a mutable index called stage.
 Git track change of file
 sadlof;lafl;ma;flm;ldmflma
